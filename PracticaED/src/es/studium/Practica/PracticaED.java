@@ -7,6 +7,8 @@ public class PracticaED {
 		//aquí no hay nada de nada
 		//y sigue sin haber nada
 		//x2
-	}
+		
+		System.out.println("Hola mundo!"); // Saludo de parte de Eduardo
+ 	}
 
 }
