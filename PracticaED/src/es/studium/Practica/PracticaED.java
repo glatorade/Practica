@@ -9,6 +9,7 @@ public class PracticaED {
 		//x2
 		
 		System.out.println("Hola mundo!"); // Saludo de parte de Eduardo
+		System.out.println("Hola Caracola"); // Saludo de parte de Guillermo
  	}
 
 }
